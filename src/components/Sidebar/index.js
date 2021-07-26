@@ -7,7 +7,20 @@ const Sidebar = () => {
 				<CloseIcon/>
 			</Icon>
 			<SideBarWrapper>
-				SidebarMenu
+				<SidebarMenu>
+					<SidebarLink to="home">
+						Home
+					</SidebarLink>
+					<SidebarLink to="menu">
+						Menu
+					</SidebarLink>
+					<SidebarLink to="about">
+						About
+					</SidebarLink>
+					<SidebarLink to="home">
+						Home
+					</SidebarLink>
+				</SidebarMenu>
 			</SideBarWrapper>
 		</SideBarContainer>
 	)
