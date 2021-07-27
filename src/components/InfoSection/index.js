@@ -14,7 +14,7 @@ const InfoSection = () => {
 								<Heading>Heading</Heading>
 								<Subtitle>SubTitle</Subtitle>
 								<BtnWrap>
-									<Button to="home">Button</Button>
+									<Button to="home"></Button>
 								</BtnWrap>
 							</TextWrapper>
 						</Column1>
