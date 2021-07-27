@@ -1,4 +1,4 @@
-export const homeObj = {
+export const homeObjOne = {
 	id: 'home',
 	lightBg: false,
 	lightText: true,
@@ -8,7 +8,7 @@ export const homeObj = {
 	description: 'more blahh blah fucking blah',
 	buttonLabel: 'Menu',
 	imgStart: false,
-	img: require('../../images/svg-1.svg'),
+	img: require('../../images/paolo.png'),
 	alt: 'picture',
 	dark: true,
 	darkText: false,
