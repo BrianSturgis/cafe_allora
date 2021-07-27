@@ -1,14 +1,30 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Video from '../../videos/video.mp4'
-import {HeroContainer, HeroBg, VideoBg} from './HeroElements'
+import {Button} from '../ButtonElements'
+import {HeroContainer, HeroBg, VideoBg, HeroContent,HeroH1,HeroP,HeroBtnWrapper,ArrowForward,ArrowRight} from './HeroElements'
 
 const HeroSection = () => {
+	const [hover,setHover] = useState(false)
+	const onHover = () => {
+		setHover(!hover)
+	}
 	return (
 		<HeroContainer id="home">
 			<HeroBg>
 				<VideoBg autoPlay loop muted src={Video} type='video/mp4'></VideoBg>
 			</HeroBg>
-			
+			<HeroContent>
+				<HeroH1>restaurant and bar</HeroH1>
+				<HeroP>504 NW 9th ave. Portland Oregon</HeroP>
+				<HeroBtnWrapper>
+					<Button to="menu" 
+						primary='true'
+						dark='true'
+						onMouseEnter={onHover} 
+						onMouseLeave={onHover}>Menu {hover ? <ArrowForward/> : <ArrowRight/>}
+					</Button>
+				</HeroBtnWrapper>
+			</HeroContent>
 		</HeroContainer>
 	)
 }
