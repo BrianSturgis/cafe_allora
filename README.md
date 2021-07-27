@@ -11,6 +11,14 @@
 ## Description
 This application was built to be a front end website for a restaurant.  
 
+## User Stories
+-display a central home page detailing the title of the business and to serve as a central space to show user they have arrive to site correctly.
+-display the menu for the restaurant.
+-display the hours of operation of the business, its phone number, and any other notices.
+-display a brief bio of the business and its owner.
+-provide a link to the businesses social media platforms.
+-provide functionality for the owner to make changes to the online menu
+
 ## Known bugs
 none yet in current build state
 
