@@ -1,4 +1,4 @@
-<h1 align="center">  </h1>
+<h1 align="center">Cafe Allora website  </h1>
 <p align="center"> Authored by Brian Sturgis</p>
 <p align="center">Project started on July 18th, 2021</p>
 
@@ -9,6 +9,8 @@
 <img src="img/componentDiagram.png" width="auto" height="auto" >
 
 ## Description
+This application was built to be a front end website for a restaurant.  
+
 
 ## Known bugs
 none yet in current build state
