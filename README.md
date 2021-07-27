@@ -18,6 +18,8 @@ This application was built to be a front end website for a restaurant.
 -display a brief bio of the business and its owner.
 -provide a link to the businesses social media platforms.
 -provide functionality for the owner to make changes to the online menu
+-site must be an improvement on the current one being used to represent the business
+
 
 ## Known bugs
 none yet in current build state
