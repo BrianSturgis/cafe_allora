@@ -15,13 +15,45 @@ This application was built to be a front end website for a restaurant.
 none yet in current build state
 
 
-## Work Log
+## Work Log (work done outside of commit history)
 ```
 Sunday July 18th:  
-GOAL: initialize Repo for project and get it running in local repo, then pre production begins for overall project.
--spent 2 hours building first wire frame and prototype
--researched anime.js for 1 hour.
--researched React Native for 2 hours
+-initialized a Repo for the project and got it running in a local repo, then began pre production for overall project. (6-7 hours)
+-spent (2 hours) building first wire frame and prototype.
+-researched anime.js for (1 hour).
+-researched React Native for (1 hour).
+
+Monday July 19th: 
+-changed project from drone flight application to a front end website for a restaurant.
+
+Friday July 23rd: 
+-met with owner of restaurant about using his business and web site as the principal subject for this application. (2 hours)
+-broke down the restaurants current website to create a list of user stories. (1 hour)
+-began drawing a component diagram. (2 hours total on entire project)
+
+Saturday July 24th
+-
+-
+
+Sunday July 25th
+-
+-
+
+Monday July 26th
+-
+-
+
+Tuesday July 27th
+-
+-
+
+Wednesday July 28th
+-
+-
+
+Thursday July 29th
+-Prep presentation (2 hours)
+-
 
 
 ```
