@@ -11,7 +11,6 @@
 ## Description
 This application was built to be a front end website for a restaurant.  
 
-
 ## Known bugs
 none yet in current build state
 
