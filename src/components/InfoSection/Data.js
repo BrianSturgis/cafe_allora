@@ -1,0 +1,15 @@
+export const homeObj = {
+	id: 'home',
+	lightBg: false,
+	lightText: true,
+	lightTextDesc: true,
+	topLine: 'Menu',
+	headLine: 'blah blah blah',
+	description: 'more blahh blah fucking blah',
+	buttonLabel: 'Menu',
+	imgStart: false,
+	img: require('../../images/svg-1.svg'),
+	alt: 'picture',
+	dark: true,
+	darkText: false,
+}
