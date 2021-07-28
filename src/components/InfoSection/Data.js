@@ -11,7 +11,7 @@ export const homeObjOne = {
 	description: 'We are open for indoor and outdoor dining everyday 4 - 10 ish. Take out available.',
 	buttonLabel: 'Menu',
 	imgStart: true,
-	img: require('../../images/paolo.png'),
+	// img: require('../../images/paolo.png'),
 	alt: 'picture',
 	dark: true,
 	primary: false,
