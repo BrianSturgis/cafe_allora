@@ -3,6 +3,38 @@ export const homeObjOne = {
 	lightBg: false,
 	lightText: true,
 	lightTextDesc: true,
+	topLine: 'home',
+	headLine: 'blah blah blah',
+	description: 'more blahh blah fucking blah',
+	buttonLabel: 'Menu',
+	imgStart: false,
+	img: require('../../images/paolo.png'),
+	alt: 'picture',
+	dark: true,
+	darkText: false,
+}
+
+export const homeObjTwo = {
+	id: 'menu',
+	lightBg: true,
+	lightText: false,
+	lightTextDesc: false,
+	topLine: 'Menu',
+	headLine: 'blah blah blah',
+	description: 'more blahh blah fucking blah',
+	buttonLabel: 'Menu',
+	imgStart: false,
+	img: require('../../images/paolo.png'),
+	alt: 'picture',
+	dark: true,
+	darkText: false,
+}
+
+export const homeObjThree = {
+	id: 'home',
+	lightBg: false,
+	lightText: true,
+	lightTextDesc: true,
 	topLine: 'Menu',
 	headLine: 'blah blah blah',
 	description: 'more blahh blah fucking blah',
