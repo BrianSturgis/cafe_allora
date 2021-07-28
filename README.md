@@ -73,8 +73,6 @@ Thursday July 29th
 
 ```
 
-
-
 ## Before Using This Application
 
 ### `npm install`
