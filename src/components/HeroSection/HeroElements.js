@@ -34,8 +34,7 @@ export const HeroBg = styled.div`
 	width:100%;
 	height:100%;
 	overflow:hidden;
-
-`
+`;
 
 
 export const VideoBg = styled.video	`
@@ -58,8 +57,8 @@ export const HeroContent =styled.div`
 `
 
 export const HeroH1 =styled.h1`
-	color: #fff;
-	font-size: 48px;
+	color: black;
+	font-size: 68px;
 	text-align: center;
 
 	@media screen and (max-width: 768px) {
@@ -72,8 +71,8 @@ export const HeroH1 =styled.h1`
 
 export const HeroP =styled.p`
 	margin-top: 24px;
-	color: #fff;
-	font-size: 24px;
+	color: black;
+	font-size: 44px;
 	text-align: center;
 	max-width: 600px;
 

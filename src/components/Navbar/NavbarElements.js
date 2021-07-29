@@ -9,7 +9,7 @@ export const Nav = styled.nav`
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	font-size: 1rem;
+	font-size: 2.0rem;
 	position: sticky;
 	top:0;
 	z-index: 10;
@@ -29,10 +29,10 @@ export const NavbarContainer = styled.div`
 	max-width: 1100px;
 `
 export const NavLogo = styled(LinkR)`
-	color: #fff;
+	color: red;
 	justify-self: flex-start;
 	cursor: pointer;
-	font-size: 1.5 rem;
+	font-size: 1.5 px;
 	display: flex;
 	align-items: center;
 	margin-left:24px;
@@ -91,18 +91,19 @@ export const NavBtn = styled.nav `
 	display: flex;
 	align-items: center;
 
+
 	@media screen and (max-width:768px)  {
 		display: none;
 	}
 `
 
 export const NavBtnLink = styled(LinkR)`
-	border-radius:50px;
+	border-radius:30px;
 	background: #01bf71;
 	white-space: nowrap;
 	padding: 10px 22px;
 	color:#010606;
-	font-size: 16px;
+	font-size: 26px;
 	outline: none;
 	border: none;
 	cursor: pointer;
