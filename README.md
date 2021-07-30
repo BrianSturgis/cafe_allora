@@ -60,13 +60,8 @@ refer to commit history for detailed work history
 Thursday July 29th
 -Prep presentation (2 hours)
 
-
 ```
 
-## Resources
-```
-
-```
 
 ## Before Using This Application
 
