@@ -43,7 +43,7 @@ Friday July 23rd:
 
 Saturday July 24th
 -Drew thumbnails of different layouts (1 hour)
--built wireframe in Photoshop (2 hours)
+-built final wireframe in Photoshop (1 hour)
 
 Sunday July 25th
 refer to commit history for detailed work history on this day
@@ -57,10 +57,9 @@ refer to commit history for detailed work history on this day
 Wednesday July 28th
 refer to commit history for detailed work history
 
-
 Thursday July 29th
 -Prep presentation (2 hours)
--
+
 
 ```
 
