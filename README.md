@@ -42,29 +42,25 @@ Friday July 23rd:
 -began drawing a component diagram. (2 hours total on entire project)
 
 Saturday July 24th
--
--
+-Drew thumbnails of different layouts (1 hour)
+-built wireframe in Photoshop (2 hours)
 
 Sunday July 25th
--
--
+refer to commit history for detailed work history on this day
 
 Monday July 26th
--
--
+refer to commit history for detailed work history on this day
 
 Tuesday July 27th
--
--
+refer to commit history for detailed work history on this day
 
 Wednesday July 28th
--
--
+refer to commit history for detailed work history
+
 
 Thursday July 29th
 -Prep presentation (2 hours)
 -
-
 
 ```
 
